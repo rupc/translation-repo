@@ -12,4 +12,4 @@
 [Things That Make Us Smart](https://msu.edu/course/cep/900/readings/NormanChap3.pdf)<br  >사람의 추상화 능력이 컴퓨터보다 앞서 있다는 것을 근거로 사람이 앞으로 어떤 능력을 발달시켜야 하는가에 대해 설명했다.
 
 ## 안녕히 가세요, 문쉬 박사님
-[Good bye, Mr Munshi](https://somagame.com/item-4530.html)는 게임 [SOMA](https://namu.wiki/w/SOMA)의 등장 인물인 문쉬 박사와의 인터뷰이다. [여기](https://namu.wiki/w/SOMA/%ED%8C%8C%EC%9D%BC#s-2.3)를 참고
+[Good bye, Mr Munshi](https://somagame.com/item-4530.html)는 게임 [SOMA](https://namu.wiki/w/SOMA)의 등장 인물인 문쉬 박사와의 인터뷰이다. [soma-item-4530](https://namu.wiki/w/SOMA/%ED%8C%8C%EC%9D%BC#s-2.3)
